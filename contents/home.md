@@ -1,17 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![XiaoMing-milan](https://img.shields.io/badge/XiaoMing-milan-github-blue?logo=github)](https://github.com/XiaoMing-milan)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
-
+He is currently an undergraduate student in the Dual Degree Program in Mathematics and Applied Mathematics and Economics at Southwestern University of Finance and Economics.
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 42326009@smail.swufe.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E.,  Mathematics and Applied Mathematics and Economics, Southwestern University of Finance and Economics, 2023—Now.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+LLM-Based Agent,MM-LLMs.
 
