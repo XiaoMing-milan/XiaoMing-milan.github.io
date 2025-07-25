@@ -2,7 +2,7 @@
 
 [![XiaoMing-milan](https://img.shields.io/badge/XiaoMing--milan-GitHub-blue?logo=github)](https://github.com/XiaoMing-milan)
 
-&ensp;He is currently an undergraduate student in the Dual Degree Program in Mathematics and Applied Mathematics and Economics at Southwestern University of Finance and Economics.
+He is currently an undergraduate student in the Dual Degree Program in Mathematics and Applied Mathematics and Economics at Southwestern University of Finance and Economics.
 #### Contact
 
 Email: 42326009@smail.swufe.edu.cn
