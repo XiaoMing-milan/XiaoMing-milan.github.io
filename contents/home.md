@@ -11,5 +11,5 @@ Email: 42326009@smail.swufe.edu.cn
 B.E.,  Mathematics and Applied Mathematics and Economics, Southwestern University of Finance and Economics, 2023—Now.
 
 #### Research Interests
-LLM-Based Agent,MM-LLMs.
+LLM-Based Agent, MM-LLMs, VLMs.
 
