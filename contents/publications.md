@@ -1,6 +1,6 @@
 #### Submitted
 
-- <strong>Minglei Chen</strong>, Weilong Wang, Jiang Duan, Ye Deng (2026). <strong>Gram-Anchored Prompt Learning for Vision-Language Models via Second-Order Statistics</strong> [[Paper]]
+- <strong>Minglei Chen</strong>, Weilong Wang, Jiang Duan, Ye Deng (2026). <strong>Gram-Anchored Prompt Learning for Vision-Language Models via Second-Order Statistics</strong>. [[Paper]]
 
 #### Published
 
