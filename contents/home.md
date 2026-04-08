@@ -5,7 +5,7 @@
 He is currently an undergraduate student in the Dual Degree Program in Mathematics and Applied Mathematics and Economics at Southwestern University of Finance and Economics. 
 #### Contact
 
-Email: 42326009@smail.swufe.edu.cn
+Email: chenminglei33@gmail.com
 
 #### Education
 B.E.,  Mathematics and Applied Mathematics and Economics, Southwestern University of Finance and Economics, 2023—Now.
